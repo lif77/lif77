@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=lif7">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lif7)](https://solved.ac/lif7/)
